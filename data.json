@@ -1,0 +1,14 @@
+[
+    {
+        "todo": "the thing i need to do",
+        "status": "done"
+    },
+    {
+        "todo": "water the plants",
+        "status": "done"
+    },
+    {
+        "todo": "find needle in the haystack",
+        "status": "not done"
+    }
+]
